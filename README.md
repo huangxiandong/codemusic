@@ -13,4 +13,4 @@ Just for fun!
 
 ## License
 
-Copyright (c) huangxiandong<huangxiandong@hotmail.com>. All rights reserved.
+Copyright (c) huangxiandong <huangxiandong@hotmail.com>. All rights reserved.
