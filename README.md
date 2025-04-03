@@ -20,7 +20,7 @@ CodeMusic is a local music player extension for Visual Studio Code. Just for fun
 3. Or open CodeMusic from status bar.
    
 ## ScreenShots
-<img src=https://raw.githubusercontent.com/huangxiandong/codemusic/main/snapshots/1.png?>
+<img src=https://raw.githubusercontent.com/huangxiandong/codemusic/main/snapshots/4.png?>
 <img src=https://raw.githubusercontent.com/huangxiandong/codemusic/main/snapshots/2.png?>
 <img src=https://raw.githubusercontent.com/huangxiandong/codemusic/main/snapshots/3.png?>
 
